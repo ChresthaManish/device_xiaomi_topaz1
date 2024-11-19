@@ -245,8 +245,6 @@ PRODUCT_COPY_FILES += \
 
 # Health
 PRODUCT_PACKAGES += \
-    android.hardware.health-service.xiaomi \
-    android.hardware.health-service.xiaomi_recovery \
     android.hardware.health-V1-ndk.vendor \
     android.hardware.health@2.1.vendor
 
@@ -530,7 +528,6 @@ PRODUCT_COPY_FILES += \
 
 # Thermal
 PRODUCT_PACKAGES += \
-    android.hardware.thermal@2.0-service.qti-v2 \
     libpsi.vendor
 
 # Trusted User Interface
