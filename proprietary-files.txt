@@ -844,6 +844,7 @@ vendor/etc/init/qseecomd.rc
 vendor/etc/init/shsusrd.rc
 vendor/etc/vintf/manifest/android.hardware.gnss-aidl-service-qti.xml
 vendor/etc/vintf/manifest/vendor.qti.gnss-service.xml
+vendor/etc/xtra_root_cert.pem
 vendor/etc/apdr.conf
 vendor/etc/batching.conf
 vendor/etc/gnss_antenna_info.conf
